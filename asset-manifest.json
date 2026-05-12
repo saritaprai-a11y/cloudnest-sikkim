@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.619fbf1b.css",
-    "main.js": "./static/js/main.18607d0c.js",
-    "index.html": "./index.html",
-    "main.619fbf1b.css.map": "./static/css/main.619fbf1b.css.map",
-    "main.18607d0c.js.map": "./static/js/main.18607d0c.js.map"
+    "main.css": "/cloudnest-sikkim/static/css/main.619fbf1b.css",
+    "main.js": "/cloudnest-sikkim/static/js/main.18607d0c.js",
+    "index.html": "/cloudnest-sikkim/index.html",
+    "main.619fbf1b.css.map": "/cloudnest-sikkim/static/css/main.619fbf1b.css.map",
+    "main.18607d0c.js.map": "/cloudnest-sikkim/static/js/main.18607d0c.js.map"
   },
   "entrypoints": [
     "static/css/main.619fbf1b.css",
